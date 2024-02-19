@@ -1,4 +1,4 @@
-﻿#Change Username and Password to your postgres server's credentials
+﻿#Change Username and Password - put your postgres server's credentials
 $env:PGPASSWORD = '123456789'
 $env:PGUSERNAME = 'postgres'
 
